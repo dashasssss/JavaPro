@@ -4,6 +4,7 @@ class Wheel {
     private int size;
     private String brand;
 
+
     public Wheel(int size, String brand) {
         this.size = size;
         this.brand = brand;
